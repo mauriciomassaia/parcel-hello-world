@@ -1,0 +1,17 @@
+.panel {
+  background-color: blanchedalmond;
+  color: #333;
+  flex: 1;
+  font-size: 2rem;
+  margin: var(--space) var(--space2) 0;
+  padding: var(--space);
+}
+
+.panel-long {
+  background-color: aquamarine;
+  color: #333;
+  flex: 1;
+  font-size: 1rem;
+  margin: var(--space) var(--space) 0;
+  padding: var(--space);
+}

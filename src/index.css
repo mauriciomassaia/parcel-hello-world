@@ -1,0 +1,16 @@
+:root {
+  --space: 20px;
+  --space2: 40px;
+}
+
+body {
+  display: flex;
+  margin: 0;
+  padding: 0 0 var(--space2);
+  flex-direction: column;
+}
+
+h1 {
+  flex: 1;
+  margin: var(--space2) var(--space) 0;
+}
